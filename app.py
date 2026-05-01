@@ -212,8 +212,7 @@ st.title("🏫 Classroom CO₂ Estimation Tool")
 st.markdown(
     "Estimate steady-state CO₂ concentrations for different classroom configurations "
     "using EN 16798 ventilation design values and child CO₂ generation rates "
-    "(Persily & de Jonge, 2017).  
-"
+    "(Persily & de Jonge, 2017)."
     "**CO₂ (ppm) = 420 + (generation / ventilation) × 10⁶**"
 )
 st.divider()
